@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<data_mahasiswa>
+  <mahasiswa>
+    <id>1</id>
+    <nama>Obi-wan Kenobi</nama>
+    <nim>13516001</nim>
+  </mahasiswa>
+  <mahasiswa>
+    <id>2</id>
+    <nama>Anakin Skywalker</nama>
+    <nim>18216001</nim>
+  </mahasiswa>
+  <mahasiswa>
+    <id>3</id>
+    <nama>Leia Organa</nama>
+    <nim>18216002</nim>
+  </mahasiswa>
+  <mahasiswa>
+    <id>4</id>
+    <nama>Jar-jar Binks</nama>
+    <nim>18216003</nim>
+  </mahasiswa>
+  <mahasiswa>
+    <id>5</id>
+    <nama>Darth Vadeer</nama>
+    <nim>18217003</nim>
+  </mahasiswa>
+</data_mahasiswa>
